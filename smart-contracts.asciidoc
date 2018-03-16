@@ -96,7 +96,7 @@ The Application Binary Interface (ABI) is strongly typed, known at compilation t
 A more rigorous and in-depth explanation of the Ethereum ABI can be found at 
 `https://github.com/ethereum/wiki/wiki/Ethereum-Contract-ABI`
 
-=== Deploying Smart Contracts?
+=== Deploying Smart Contracts
 After you've typed up your smart contract, you'll want to deploy it to the main ethereum network. 
 The process is as follows: 
 
